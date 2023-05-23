@@ -1,8 +1,8 @@
 obj/msys2/Release/src/Game/Entities/Dynamic/Inspector.o: \
- C:/Users/Public/of_msys2_mingw32_release/apps/myApps/pa2-pa2_juan_yaniel/src/Game/Entities/Dynamic/Inspector.cpp \
- C:/Users/Public/of_msys2_mingw32_release/apps/myApps/pa2-pa2_juan_yaniel/src/Game/Entities/Dynamic/Inspector.h \
- C:/Users/Public/of_msys2_mingw32_release/apps/myApps/pa2-pa2_juan_yaniel/src/Game/Entities/Dynamic/Client.h \
- C:/Users/Public/of_msys2_mingw32_release/apps/myApps/pa2-pa2_juan_yaniel/src/Game/Entities/Entity.h \
+ C:/Users/Public/of_msys2_mingw32_release/apps/myApps/PA2/src/Game/Entities/Dynamic/Inspector.cpp \
+ C:/Users/Public/of_msys2_mingw32_release/apps/myApps/PA2/src/Game/Entities/Dynamic/Inspector.h \
+ C:/Users/Public/of_msys2_mingw32_release/apps/myApps/PA2/src/Game/Entities/Dynamic/Client.h \
+ C:/Users/Public/of_msys2_mingw32_release/apps/myApps/PA2/src/Game/Entities/Entity.h \
  C:/Users/Public/of_msys2_mingw32_release/libs/openFrameworks/ofMain.h \
  C:/Users/Public/of_msys2_mingw32_release/libs/openFrameworks/utils/ofConstants.h \
  C:/Users/Public/of_msys2_mingw32_release/libs/tess2/include/tesselator.h \
@@ -312,11 +312,11 @@ obj/msys2/Release/src/Game/Entities/Dynamic/Inspector.o: \
  C:/Users/Public/of_msys2_mingw32_release/libs/openFrameworks/3d/of3dUtils.h \
  C:/Users/Public/of_msys2_mingw32_release/libs/openFrameworks/3d/ofCamera.h \
  C:/Users/Public/of_msys2_mingw32_release/libs/openFrameworks/3d/ofEasyCam.h \
- C:/Users/Public/of_msys2_mingw32_release/apps/myApps/pa2-pa2_juan_yaniel/src/Game/Entities/Static/Burger.h \
- C:/Users/Public/of_msys2_mingw32_release/apps/myApps/pa2-pa2_juan_yaniel/src/Game/Entities/Static/Item.h
-C:/Users/Public/of_msys2_mingw32_release/apps/myApps/pa2-pa2_juan_yaniel/src/Game/Entities/Dynamic/Inspector.h:
-C:/Users/Public/of_msys2_mingw32_release/apps/myApps/pa2-pa2_juan_yaniel/src/Game/Entities/Dynamic/Client.h:
-C:/Users/Public/of_msys2_mingw32_release/apps/myApps/pa2-pa2_juan_yaniel/src/Game/Entities/Entity.h:
+ C:/Users/Public/of_msys2_mingw32_release/apps/myApps/PA2/src/Game/Entities/Static/Burger.h \
+ C:/Users/Public/of_msys2_mingw32_release/apps/myApps/PA2/src/Game/Entities/Static/Item.h
+C:/Users/Public/of_msys2_mingw32_release/apps/myApps/PA2/src/Game/Entities/Dynamic/Inspector.h:
+C:/Users/Public/of_msys2_mingw32_release/apps/myApps/PA2/src/Game/Entities/Dynamic/Client.h:
+C:/Users/Public/of_msys2_mingw32_release/apps/myApps/PA2/src/Game/Entities/Entity.h:
 C:/Users/Public/of_msys2_mingw32_release/libs/openFrameworks/ofMain.h:
 C:/Users/Public/of_msys2_mingw32_release/libs/openFrameworks/utils/ofConstants.h:
 C:/Users/Public/of_msys2_mingw32_release/libs/tess2/include/tesselator.h:
@@ -626,5 +626,5 @@ C:/Users/Public/of_msys2_mingw32_release/libs/openFrameworks/video/ofDirectShowP
 C:/Users/Public/of_msys2_mingw32_release/libs/openFrameworks/3d/of3dUtils.h:
 C:/Users/Public/of_msys2_mingw32_release/libs/openFrameworks/3d/ofCamera.h:
 C:/Users/Public/of_msys2_mingw32_release/libs/openFrameworks/3d/ofEasyCam.h:
-C:/Users/Public/of_msys2_mingw32_release/apps/myApps/pa2-pa2_juan_yaniel/src/Game/Entities/Static/Burger.h:
-C:/Users/Public/of_msys2_mingw32_release/apps/myApps/pa2-pa2_juan_yaniel/src/Game/Entities/Static/Item.h:
+C:/Users/Public/of_msys2_mingw32_release/apps/myApps/PA2/src/Game/Entities/Static/Burger.h:
+C:/Users/Public/of_msys2_mingw32_release/apps/myApps/PA2/src/Game/Entities/Static/Item.h:

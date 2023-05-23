@@ -1,6 +1,6 @@
 obj/msys2/Release/src/Resources/Animation.o: \
- C:/Users/Public/of_msys2_mingw32_release/apps/myApps/pa2-pa2_juan_yaniel/src/Resources/Animation.cpp \
- C:/Users/Public/of_msys2_mingw32_release/apps/myApps/pa2-pa2_juan_yaniel/src/Resources/Animation.h \
+ C:/Users/Public/of_msys2_mingw32_release/apps/myApps/PA2/src/Resources/Animation.cpp \
+ C:/Users/Public/of_msys2_mingw32_release/apps/myApps/PA2/src/Resources/Animation.h \
  C:/Users/Public/of_msys2_mingw32_release/libs/openFrameworks/ofMain.h \
  C:/Users/Public/of_msys2_mingw32_release/libs/openFrameworks/utils/ofConstants.h \
  C:/Users/Public/of_msys2_mingw32_release/libs/tess2/include/tesselator.h \
@@ -310,7 +310,7 @@ obj/msys2/Release/src/Resources/Animation.o: \
  C:/Users/Public/of_msys2_mingw32_release/libs/openFrameworks/3d/of3dUtils.h \
  C:/Users/Public/of_msys2_mingw32_release/libs/openFrameworks/3d/ofCamera.h \
  C:/Users/Public/of_msys2_mingw32_release/libs/openFrameworks/3d/ofEasyCam.h
-C:/Users/Public/of_msys2_mingw32_release/apps/myApps/pa2-pa2_juan_yaniel/src/Resources/Animation.h:
+C:/Users/Public/of_msys2_mingw32_release/apps/myApps/PA2/src/Resources/Animation.h:
 C:/Users/Public/of_msys2_mingw32_release/libs/openFrameworks/ofMain.h:
 C:/Users/Public/of_msys2_mingw32_release/libs/openFrameworks/utils/ofConstants.h:
 C:/Users/Public/of_msys2_mingw32_release/libs/tess2/include/tesselator.h:
